@@ -13,11 +13,11 @@
   }
 
   body {
-    background-color: aqua;
+/*     background-color: aqua; */
     color: black;
     font-family: Arial, Helvetica, sans-serif;
      text-align: center;
-    backgroung-image: url('https://source.unsplash.com/1360x768/?3d')
+      background-image: url('https://source.unsplash.com/1360x1700/?3d')
     /* set the background color here */
     /* set the text color to black here */
     /* set the font here */
